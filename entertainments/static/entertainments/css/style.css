@@ -1514,3 +1514,11 @@ color: #333;
 }
 
 
+.review{
+	padding: var(--spacing-gutter-large);
+}
+
+.entertainment-title-container a {
+	text-decoration: none;
+	color: var(--color-primary-dark);
+}
